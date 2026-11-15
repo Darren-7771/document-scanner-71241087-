@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+output_tahapan/
+tempCodeRunnerFile.py
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
